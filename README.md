@@ -83,4 +83,5 @@ Dieses Projekt wurde von **M. Moser** während eines Python-Kurses im Jahr 2024 
 
 Dieses Projekt ist unter der MIT-Lizenz veröffentlicht. Weitere Informationen findest du in der Datei `LICENSE`.
 
-
+## Screenshot
+![Screenshot](screenshot.png)

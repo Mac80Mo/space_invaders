@@ -8,7 +8,7 @@ class Game: # Spielfenster
         self.width = width
         self.height = height
         self.screen = pygame.display.set_mode((self.width, self.height))
-        pygame.display.set_caption("Space Invaders by M. Moser")
+        pygame.display.set_caption("Space Invaders by Marcus")
         self.clock = pygame.time.Clock()
         self.running = True
         self.spaceship = Spaceship(self, 370, 515)
